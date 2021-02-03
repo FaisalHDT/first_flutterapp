@@ -1,0 +1,6 @@
+package com.faisal.flutterapp
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
